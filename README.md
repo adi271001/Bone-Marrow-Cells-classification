@@ -33,7 +33,3 @@ Monitor the training progress and evaluate the model's performance using the pro
 
 # Results
 The code achieves accurate classification results for bone marrow cells. Detailed performance metrics and visualizations can be found in the Kaggle notebook.
-
-# License
-The code in this repository may have its own licensing terms. Please refer to the Kaggle notebook and any associated licenses for more information.
-Feel free to customize this README to provide more specific information about the code and its usage.
